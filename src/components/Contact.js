@@ -11,7 +11,7 @@ const Contact = () => {
             </h2>
 
             <div className="ui container">
-                <p className="ui header centered">Just drop a message on anyone of the below Handles!</p>
+                <p className="ui header centered">Just Drop a Message on anyone of the below Handles!</p>
                 <h3 className="ui header centered"><i className="ui google tiny icon"/>Email me at nikzdev@gmail.com</h3>
                 <div className="ui horizontal segments">
                     <div className="ui segment">
