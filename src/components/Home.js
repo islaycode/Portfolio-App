@@ -11,7 +11,7 @@ const Home = () => {
 
                     <div className="ui ribbon red label"><i className="ui user very large icon" /> About me</div>
                     <h3 className="ui animated list">
-                        <p className="item">Enthusiastic software engineer from Delhi with an eager to learn more and expand my skill sets to benefit the
+                        <p className="item">Enthusiastic software engineer from Delhi with an eagerness to learn more and expand my skill sets to benefit the
                         organization. Detail oriented with an analytical bent of mind and possess positive attitude.
                     Proficiency at grasping new technical concepts quickly & utilizing it in a productive manner</p></h3>
                 </h3>
