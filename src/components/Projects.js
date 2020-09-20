@@ -45,7 +45,7 @@ const Projects = () => {
                         </a>
                     </div>
                         <div className="content">
-                            <h3 className="ui header">Covid-19 India's Stats Lite</h3>
+                            <h3 className="ui header">Covid-19 India's Stats</h3>
                         </div>     
                 </div>
 
