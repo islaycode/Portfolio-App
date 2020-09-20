@@ -9,7 +9,7 @@ const Navbar = () => {
                 <span>Home <i className="home icon"></i></span>
                  </Link>
             <Link to="/projects" className="item">
-                <span>Project <i className="chart pie icon"></i></span>
+                <span>Projects <i className="chart pie icon"></i></span>
                  </Link>
             <Link to="/contact" className="item">
             <span>Contact Me <i className="envelope icon"/></span>            
