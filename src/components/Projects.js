@@ -82,7 +82,7 @@ const Projects = () => {
                             <a href="https://season-identifier-nikhil.netlify.app/"
                                 className="ui button primary"
                                 target="_blank"
-                                rel="noopener noreference"
+                                rel="noopener noreferrer"
                             >
                                 Visit</a>
                         </div>
