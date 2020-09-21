@@ -79,7 +79,7 @@ const Projects = () => {
 
                     <div className="item">
                         <div className="right floated content">
-                            <a href="season-identifier-nikhil.netlify.app"
+                            <a href="https://season-identifier-nikhil.netlify.app/"
                                 className="ui button primary"
                                 target="_blank"
                                 rel="noopener noreference"
