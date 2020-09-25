@@ -8,6 +8,20 @@ const Projects = () => {
                 <h3 className="ui header centered">Live Projects</h3>
 
                 <div className="ui middle aligned divided list">
+                <div className="item">
+                        <div className="right floated content">
+                            <a href="https://burger-builder-nikhil.netlify.app"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="ui button primary"
+                            >Visit</a >
+                        </div>
+                        
+                        <div className="content">
+                            <h3 className="ui header">Burger Builder</h3>
+                        </div>
+                    </div>
+                    
                     <div className="item">
                         <div className="right floated content">
                             <a href="https://damp-crag-68931.herokuapp.com/"
@@ -20,6 +34,7 @@ const Projects = () => {
                             <h3 className="ui header"> Emaily</h3>
                         </div>
                     </div>
+               
 
                     <div className="item">
                         <div className="right floated content">
